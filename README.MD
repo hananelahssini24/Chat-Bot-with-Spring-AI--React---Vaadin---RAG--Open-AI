@@ -15,5 +15,3 @@
 <hr/>
 <img src="captures/8.png" alt="">
 <hr/>
-<img src="captures/9.png" alt="">
-<hr/>
